@@ -1,10 +1,11 @@
 package com.apiviacepjava.DTO;
 
-public record EnderecoDTO(
+public record CepDTO(
         String cep,
         String logradouro,
         String complemento,
         String bairro,
         String localidade,
-        String uf) {
+        String uf,
+        Long ddd) {
 }
