@@ -1,6 +1,7 @@
 package com.apiviacepjava.DTO;
 
-public record CepDTO(
+
+public record Cep(
         String cep,
         String logradouro,
         String complemento,
