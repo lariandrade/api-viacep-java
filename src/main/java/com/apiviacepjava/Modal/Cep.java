@@ -1,4 +1,4 @@
-package com.apiviacepjava.DTO;
+package com.apiviacepjava.Modal;
 
 
 public record Cep(
