@@ -1,6 +1,6 @@
 package com.apiviacepjava.Service;
 
-import com.apiviacepjava.Modal.Cep;
+import com.apiviacepjava.Model.Cep;
 import com.google.gson.Gson;
 import org.springframework.stereotype.Service;
 

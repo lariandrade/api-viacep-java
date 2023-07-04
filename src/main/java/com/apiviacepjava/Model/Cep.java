@@ -1,4 +1,4 @@
-package com.apiviacepjava.Modal;
+package com.apiviacepjava.Model;
 
 
 public record Cep(
