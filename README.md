@@ -49,7 +49,7 @@ Siga as instruções abaixo para executar a aplicação:
 
 **1. Baixe o projeto:**
 ```
-git clone https://github.com/lariandrade/TCC-FindUs.git
+git clone https://github.com/lariandrade/api-viacep-java.git
 ```
 <p>Abra o projeto na IDE.</p>
 
