@@ -9,7 +9,19 @@
 
 
 ## Descrição do Projeto
+O projeto foi desenvolvido com o objetivo de aplicar os conhecimentos adquiridos durante meus estudos.
 
+Foram utilizadas as seguintes tecnologias e conceitos:
+
+- Gson: utilizado para converter o JSON em objeto, facilitando o processamento dos dados.
+- DTO (Data Transfer Object): utilizado para transferir os dados entre as diferentes camadas do sistema, garantindo uma separação adequada de responsabilidades.
+- Service: utilizado para agrupar as regras de negócio relacionadas à consulta de CEP, promovendo uma organização e manutenção mais eficientes.
+- StringBuilder: utilizado para construir a representação formatada do endereço, permitindo a escolha entre uma versão simples ou detalhada do resultado.
+- `Java.net.URI`, `java.net.http.HttpClient`, `java.net.http.HttpRequest` e `java.net.http.HttpResponse`: utilizados para realizar a chamada à API ViaCEP, obter a resposta e processá-la.
+
+API ViaCEP: https://viacep.com.br/
+
+Minha proposta: [busca-cep.up.railway.app/](https://busca-cep.up.railway.app/)
 
 ## Funcionalidades
 - `Funcionalidade 1`: Consulta Simples
